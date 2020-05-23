@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<users>
+	<user>
+		<name>hamza</name>
+		<phone>09 96 09 06 91</phone>
+		<email>interdum.enim.non@cursus.edu</email>
+		<group>admin</group>
+		<id>1</id>
+		<password>12345678</password>
+	</user>
+	<user>
+		<name>kamal</name>
+		<phone>06 36 22 84 42</phone>
+		<email>erat.Etiam@arcuMorbi.org</email>
+		<group>admin</group>
+		<id>2</id>
+		<password>1234567</password>
+	</user>
+	<user>
+		<name>Steven</name>
+		<phone>04 71 16 24 53</phone>
+		<email>diam.Proin.dolor@purusDuis.com</email>
+		<group>user</group>
+		<id>3</id>
+		<password>VOD94FXQ3YT</password>
+	</user>
+	<user>
+		<name>Xantha</name>
+		<phone>05 41 34 99 88</phone>
+		<email>In.condimentum@dictumplacerat.org</email>
+		<group>user</group>
+		<id>4</id>
+		<password>DVR45YTR4DU</password>
+	</user>
+	<user>
+		<name>Sawyer</name>
+		<phone>01 45 17 16 81</phone>
+		<email>gravida.sit@Vestibulum.com</email>
+		<group>guest</group>
+		<id>5</id>
+		<password>ZGX92WQB2NT</password>
+	</user>
+	<user>
+		<name>Victor</name>
+		<phone>03 64 85 89 75</phone>
+		<email>Phasellus@luctusipsum.edu</email>
+		<group>guest</group>
+		<id>6</id>
+		<password>ESJ61PQZ9BF</password>
+	</user>
+	<user>
+		<name>Plato</name>
+		<phone>03 24 12 91 56</phone>
+		<email>massa@ultricesmaurisipsum.com</email>
+		<group>user</group>
+		<id>7</id>
+		<password>CEF73HHI8EI</password>
+	</user>
+	<user>
+		<name>aaaaa</name>
+		<phone>01 81 49 80 45</phone>
+		<email>elit.elit@nisi.ca</email>
+		<group>guest</group>
+		<id>8</id>
+		<password>UCC05ADR9RD</password>
+	</user>
+	<user>
+		<name>Alisa</name>
+		<phone>06 18 54 14 30</phone>
+		<email>tellus.sem@risusDuisa.edu</email>
+		<group>user</group>
+		<id>9</id>
+		<password>OKK62FBZ4OP</password>
+	</user>
+</users>
